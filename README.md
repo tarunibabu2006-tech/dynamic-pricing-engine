@@ -75,4 +75,5 @@ Use Case
 * Airline ticket pricing
 * Ride-sharing surge pricing
 
-
+## Output
+![Output](output.png)
