@@ -19,7 +19,7 @@ The application helps businesses analyze pricing trends, demand patterns, and op
 
 ## 🚀 Live Demo
 
-🔗 Streamlit App: (Add your deployed Streamlit link here)
+🔗 Streamlit App: https://dynamic-pricing-engine-wjb2ndbn45az34gzzzn3na.streamlit.app/
 
 ---
 
